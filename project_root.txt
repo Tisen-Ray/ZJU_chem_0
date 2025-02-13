@@ -1,0 +1,94 @@
+/
+zju-chem-open-source-main/
+    .gitignore
+    LICENSE
+    README.en.md
+    README.md
+    .gitee/
+        ISSUE_TEMPLATE.zh-CN.md
+        PULL_REQUEST_TEMPLATE.zh-CN.md
+    Contributors/
+        Contributors.md
+    专业课/
+        分析化学/
+            分析化学II/
+                分化2（期末梳理用）.one
+                分析化学II中文整理.pdf
+            分析化学Ⅱ(求化)/
+                readme.md
+                《分析化学教程》李克安(OCR).pdf
+                分析化学 北大(OCR).pdf
+                分析化学教程习题解析.pdf
+                LEGO-LIF/
+                    LEGO-LIF实验讲义PPT-V5-2023.pdf
+                courseware/
+                    第11章 红外光谱法-2023-春夏.pdf
+                    第12章-分子发光分析法-2023-春夏.pdf
+                    第13章 原子光谱法-原子吸收光谱法-2022-春夏.pdf
+                    第13章 原子光谱法－原子发射光谱法-2022-春夏.pdf
+                    第16章  核磁共振波谱法-2022-春夏.pdf
+                    第17章 电化学分析法导论-2022-春夏.pdf
+                    第18章 电位分析法-2022-春夏.pdf
+                    第19章 电解和库仑分析-修改-2023-春夏.pdf
+                    第20章 伏安法-2022-春夏.pdf
+                    第22章 质谱法-2023-春夏.pdf
+                    第8章-1  色谱法导论-2023-春夏 - 副本.pdf
+                    第8章-1,3  气相色谱法－2023-春夏.pdf
+                    第8章-1,3  液相色谱法 - 2023-春夏.pdf
+                    第8章-4  毛细管电泳法--2023-春夏.pdf
+                    紫外-可见分光光度法-2023-春夏.pdf
+                images/
+                    image-1.png
+                    image-2.png
+                    image-3.png
+                    image-4.png
+                    image-5.png
+                    image.png
+                    image5.png
+        微积分/
+            Tom Apostol - Calculus Vol.2 - Multi-Variable Calculus and Linear Algebra with Applications.pdf
+        物理化学/
+            物理化学I/
+                Phy1_2024_Interest/
+                    conservation.pdf
+                    hw1说明.md
+                    《阿特金斯物理化学》中关于核统计的说明.pdf
+                    《阿特金斯物理化学》中关于转动配分函数的说明.pdf
+                    关于内能对体积的偏导.pdf
+                    对称因子.pdf
+                    振动+转动.pdf
+                    有关转动及转动自由度问题的一些看法.pdf
+                    玻尔兹曼分布.pdf
+                    积分近似中的定量误差分析.pdf
+                Phy1_2024_hw/
+                    夏学期第一次作业参考答案.pdf
+                    夏学期第三次作业参考答案.pdf
+                    夏学期第二次作业答案.pdf
+                    夏学期第五次作业参考答案.pdf
+                    夏学期第六次作业答案.pdf
+                    夏学期第四次作业答案.pdf
+                Phy1_2024_quiz/
+                    quiz1.pdf
+                    quiz2.pdf
+                    quiz3.pdf
+                    quiz4.pdf
+                    quiz5(1).pdf
+        结构与谱学/
+            结构与谱学III/
+                结谱3（期末梳理用）.one
+    实验课程/
+        中化实验1（期末梳理用）.one
+        基化实验2（期末梳理用）.one
+    资源目录/
+        CC98化学系楼.png
+        学习资源汇总_文件目录.txt
+        电子书_文件目录.txt
+        课程资源——PPT和回忆卷_文件目录.txt
+        资源🔗
+        软件_文件目录.txt
+    跨专业/
+        数理方法/
+            数学物理方程整理.pdf
+        统计力学/
+            正则配分函数和粒子配分函数.pdf
+            统计热力学整理（不包含流体统计）.pdf

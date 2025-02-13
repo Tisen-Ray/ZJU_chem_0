@@ -1,0 +1,2473 @@
+{
+  "vaultName": "zju-chem-open-source-init",
+  "lastExport": 1739413110554,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Contributors/Contributors.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/Ce铈量法.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/EDTA 202406172047.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/γ射线光谱法.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/光学分析.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/分布分数202406162240.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/分析化学中的计量单位202406161600.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/分析化学数据处理202406161547.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/分析化学数据的统计处理202406161624.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/分析化学组会202406280932.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/副反应系数202406172055.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/发射光谱.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/吸收光谱.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/基准物质202406161550.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/基准物质202406161556.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/微观比热容@20240527.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/拉平效应202406172041.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/指示剂202406171729.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/掩蔽法202406172200.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/最小误差202406172222.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/有效数字202406162209.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/有机沉淀剂202406101006.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/条件浓度202406081156.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/标准加入法202406230816.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/氧化还原分析.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/氧化还原反应的条件电位.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/氧化还原滴定中的指示剂.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/氧化还原滴定曲线.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/氧化还原滴定的基本原理.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/氧化还原滴定预处理.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/氧化还原的速率.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/沉淀分析法.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/沉淀条件和称量形的获得202406081649.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/沉淀滴定曲线202406101023.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/沉淀滴定法202406101022.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/沉淀的形成.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/沉淀的溶解度202406072147.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/沉淀重量分析法202406081612.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/法杨司_吸附指示剂202406101105.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/活度与活度系数202406162216.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/浓度对数图202406162245.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/溴酸钾法.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/溶液中pH的计算202406171438.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/直接滴定法202406171715.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/确保沉淀的纯度202406081636.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/碘量法.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/福尔哈德法_铁铵钒作为指示剂202406101057.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/等电点202406171705.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/紫外-可见光分光光度法.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/终点误差的计算202406171750.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/络合滴定方法202406172207.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/络合滴定法202406172029.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/络合滴定的误差分析202406172130.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/络合物形成常数202406172046.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/缓冲体系202406171636.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/置换滴定法202406171723.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/胶体202406100922.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/莫尔法_铬酸钾作为指示剂202406101042.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/萃取202406172214.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/误差的传递202406162116.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/误差的表征202406161608.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/返滴定法202406171722.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/酸碱滴定曲线202406171733.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/酸碱滴定法的应用202406172042.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/重铬酸钾氧化还原法.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/金属指示剂202406172101.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/间接滴定法202406171726.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/非水滴定202406172025.md",
+    "专业课/分析化学/分析化学I/分析化学I笔记/高锰酸钾氧化还原滴定法.md",
+    "专业课/分析化学/分析化学I/分析化学(化竞).pdf",
+    "专业课/分析化学/分析化学II/分化2（期末梳理用）.one",
+    "专业课/分析化学/分析化学II/分析化学II中文整理.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第8章-1  色谱法导论-2023-春夏 - 副本.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第8章-1,3  气相色谱法－2023-春夏.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第8章-1,3  液相色谱法 - 2023-春夏.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第8章-4  毛细管电泳法--2023-春夏.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第11章 红外光谱法-2023-春夏.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第12章-分子发光分析法-2023-春夏.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第13章 原子光谱法－原子发射光谱法-2022-春夏.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第13章 原子光谱法-原子吸收光谱法-2022-春夏.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第16章  核磁共振波谱法-2022-春夏.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第17章 电化学分析法导论-2022-春夏.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第18章 电位分析法-2022-春夏.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第19章 电解和库仑分析-修改-2023-春夏.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第20章 伏安法-2022-春夏.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第22章 质谱法-2023-春夏.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/紫外-可见分光光度法-2023-春夏.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/images/image.png",
+    "专业课/分析化学/分析化学Ⅱ(求化)/images/image-1.png",
+    "专业课/分析化学/分析化学Ⅱ(求化)/images/image-2.png",
+    "专业课/分析化学/分析化学Ⅱ(求化)/images/image-3.png",
+    "专业课/分析化学/分析化学Ⅱ(求化)/images/image-4.png",
+    "专业课/分析化学/分析化学Ⅱ(求化)/images/image-5.png",
+    "专业课/分析化学/分析化学Ⅱ(求化)/images/image5.png",
+    "专业课/分析化学/分析化学Ⅱ(求化)/LEGO-LIF/LEGO-LIF实验讲义PPT-V5-2023.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/AAS.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/AES.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/GC.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/HPLC.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/IR.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/MS.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/NMR.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/UV.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/人名.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/伏安法.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/作业.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/作业.docx",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/电位分析.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/电化学导论.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/电泳.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/电解分析.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/色谱导论.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/荧光.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/《分析化学教程》李克安(OCR).pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/readme.md",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学 北大(OCR).pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学教程习题解析.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/课程总结.pdf",
+    "专业课/分析化学/分析化学Ⅱ(求化)/课程总结.md",
+    "专业课/大学化学/大学化学_手写笔记.pdf",
+    "专业课/大学化学/大学化学总结.md",
+    "专业课/大学化学/大学化学总结.docx",
+    "专业课/大学物理普通物理学（H）/普物1（H）笔记.pdf",
+    "专业课/大学物理普通物理学（H）/普物I(H)完整版笔记.pdf",
+    "专业课/大学物理普通物理学（H）/普物二笔记(1).pdf",
+    "专业课/大学物理普通物理学（H）/课程经验总结（普物H）.md",
+    "专业课/大学物理普通物理学（H）/课程经验总结（普物H）.docx",
+    "专业课/大学物理普通物理学（H）/课程经验总结（普物二H）.docx",
+    "专业课/大学物理普通物理学（H）/课程经验总结（普物二H）.md",
+    "专业课/微积分/Tom Apostol - Calculus Vol.2 - Multi-Variable Calculus and Linear Algebra with Applications.pdf",
+    "专业课/微积分/微积分手写笔记1.pdf",
+    "专业课/微积分/微积分手写笔记2.pdf",
+    "专业课/微积分/微积分手写笔记3.pdf",
+    "专业课/微积分/微积分手写笔记4.pdf",
+    "专业课/微积分/微积分手写笔记5.pdf",
+    "专业课/微积分/微积分手写笔记6.pdf",
+    "专业课/微积分/课程总结.md",
+    "专业课/微积分/课程总结.docx",
+    "专业课/无机化学/《无机化学》课程经验总结.docx",
+    "专业课/无机化学/30页无机化学笔记.pdf",
+    "专业课/无机化学/inorganic chem notes.pdf",
+    "专业课/无机化学/元素化学(化竞).pdf",
+    "专业课/无机化学/无机七.pdf",
+    "专业课/无机化学/无机三.pdf",
+    "专业课/无机化学/无机化学（求化）笔记.pdf",
+    "专业课/无机化学/课程经验总结.docx",
+    "专业课/无机化学/课程经验总结(无机化学wgp).docx",
+    "专业课/无机化学/课程经验总结(竞赛生）.md",
+    "专业课/无机化学/课程经验总结(非竞赛生).md",
+    "专业课/普通化学/笔记1/1.jpg",
+    "专业课/普通化学/笔记1/2.jpg",
+    "专业课/普通化学/笔记1/3.jpg",
+    "专业课/普通化学/笔记1/4.jpg",
+    "专业课/普通化学/笔记1/5.jpg",
+    "专业课/普通化学/笔记1/6.jpg",
+    "专业课/普通化学/笔记1/7.jpg",
+    "专业课/普通化学/笔记1/8.jpg",
+    "专业课/普通化学/笔记1/9.jpg",
+    "专业课/普通化学/笔记1/10.jpg",
+    "专业课/普通化学/笔记1/11.jpg",
+    "专业课/普通化学/笔记1/12.jpg",
+    "专业课/普通化学/笔记1/13.jpg",
+    "专业课/普通化学/笔记1/14.jpg",
+    "专业课/普通化学/笔记1/15.jpg",
+    "专业课/普通化学/笔记1/16.jpg",
+    "专业课/普通化学/笔记1/17.jpg",
+    "专业课/普通化学/笔记1/18.jpg",
+    "专业课/普通化学/笔记1/19.jpg",
+    "专业课/普通化学/笔记1/20.jpg",
+    "专业课/普通化学/笔记1/21.jpg",
+    "专业课/普通化学/笔记1/22.jpg",
+    "专业课/普通化学/笔记1/23.jpg",
+    "专业课/普通化学/笔记1/24.jpg",
+    "专业课/普通化学/笔记1/25.jpg",
+    "专业课/普通化学/笔记1/26.jpg",
+    "专业课/普通化学/笔记1/27.jpg",
+    "专业课/普通化学/笔记1/28.jpg",
+    "专业课/普通化学/笔记1/29.jpg",
+    "专业课/普通化学/笔记1/30.jpg",
+    "专业课/普通化学/笔记1/31.jpg",
+    "专业课/普通化学/笔记1/32.jpg",
+    "专业课/普通化学/笔记2/普通化学笔记.pdf",
+    "专业课/普通化学/普通化学课程总结.md",
+    "专业课/普通化学/普通化学课程总结.docx",
+    "专业课/有机化学/卤代烃.pdf",
+    "专业课/有机化学/有机基础.pdf",
+    "专业课/有机化学/烷烃与自由基反应.pdf",
+    "专业课/有机化学/电子效应.pdf",
+    "专业课/有机化学/课程经验总结.docx",
+    "专业课/有机化学/课程经验总结.pdf",
+    "专业课/物理化学/全套物理化学笔记/第1章-单个分子能级结构.pdf",
+    "专业课/物理化学/全套物理化学笔记/第2章-从单分子到多分子.pdf",
+    "专业课/物理化学/全套物理化学笔记/第3章-从分子性质到宏观可观测量.pdf",
+    "专业课/物理化学/全套物理化学笔记/第4章-热力学概论和热力学第一定律.pdf",
+    "专业课/物理化学/全套物理化学笔记/第5章-热力学第二定律.pdf",
+    "专业课/物理化学/全套物理化学笔记/第6章-热力学基本方程.pdf",
+    "专业课/物理化学/全套物理化学笔记/第6章（2）.pdf",
+    "专业课/物理化学/全套物理化学笔记/第7.0章-分子间相互作用.pdf",
+    "专业课/物理化学/全套物理化学笔记/第7.5章-纯物质体相性质.pdf",
+    "专业课/物理化学/全套物理化学笔记/第8章-溶液形成和基本性质(1).pdf",
+    "专业课/物理化学/全套物理化学笔记/第9章-溶液与多相混合物.pdf",
+    "专业课/物理化学/全套物理化学笔记/第10章-表面.pdf",
+    "专业课/物理化学/全套物理化学笔记/第11章-胶体溶液.pdf",
+    "专业课/物理化学/全套物理化学笔记/第12章-化学平衡.pdf",
+    "专业课/物理化学/全套物理化学笔记/第13章-非平衡态热力学和输运过程.pdf",
+    "专业课/物理化学/全套物理化学笔记/第14章-局域平衡态和理论动力学.pdf",
+    "专业课/物理化学/全套物理化学笔记/第15章-实验化学动力学.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_hw/夏学期第一次作业参考答案.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_hw/夏学期第三次作业参考答案.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_hw/夏学期第二次作业答案.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_hw/夏学期第五次作业参考答案.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_hw/夏学期第六次作业答案.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_hw/夏学期第四次作业答案.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/《阿特金斯物理化学》中关于核统计的说明.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/《阿特金斯物理化学》中关于转动配分函数的说明.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/conservation.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/hw1说明.md",
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/关于内能对体积的偏导.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/对称因子.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/振动+转动.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/有关转动及转动自由度问题的一些看法.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/玻尔兹曼分布.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/积分近似中的定量误差分析.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_quiz/quiz1.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_quiz/quiz2.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_quiz/quiz3.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_quiz/quiz4.pdf",
+    "专业课/物理化学/物理化学I/Phy1_2024_quiz/quiz5(1).pdf",
+    "专业课/物理化学/物理化学I/物理化学笔记/1.jpg",
+    "专业课/物理化学/物理化学I/物理化学笔记/2.jpg",
+    "专业课/物理化学/物理化学I/物理化学笔记/3.jpg",
+    "专业课/物理化学/物理化学I/物理化学笔记/4.jpg",
+    "专业课/物理化学/物理化学I/物理化学笔记/5.jpg",
+    "专业课/物理化学/物理化学I/物理化学笔记/6.jpg",
+    "专业课/物理化学/物理化学I/物理化学笔记/7.jpg",
+    "专业课/物理化学/物理化学II、III.pdf",
+    "专业课/线性代数/笔记1/第一章 线性方程组的求解.pdf",
+    "专业课/线性代数/笔记1/第三章 矩阵的运算.pdf",
+    "专业课/线性代数/笔记1/第二章 行列式与矩阵的秩.pdf",
+    "专业课/线性代数/笔记1/第五章 矩阵的特征值理论与相似对角化.pdf",
+    "专业课/线性代数/笔记1/第八章 欧式空间.pdf",
+    "专业课/线性代数/笔记1/第四章 n元向量空间.pdf",
+    "专业课/线性代数/笔记2/IMG_20241212_215348.jpg",
+    "专业课/线性代数/笔记2/IMG_20241212_215354.jpg",
+    "专业课/线性代数/笔记2/IMG_20241212_215357.jpg",
+    "专业课/线性代数/笔记2/IMG_20241212_215403.jpg",
+    "专业课/线性代数/笔记2/IMG_20241212_215407.jpg",
+    "专业课/线性代数/笔记2/IMG_20241212_215618.jpg",
+    "专业课/线性代数/笔记2/IMG_20241212_215628.jpg",
+    "专业课/线性代数/笔记2/IMG_20241212_215633.jpg",
+    "专业课/线性代数/课程经验总结模版.md",
+    "专业课/线性代数/课程经验总结模版.docx",
+    "专业课/结构与谱学/结构与谱学II/结构与谱学2完整笔记.pdf",
+    "专业课/结构与谱学/结构与谱学III/知识点梳理.pdf",
+    "专业课/结构与谱学/结构与谱学III/结构与谱学3笔记.pdf",
+    "专业课/结构与谱学/结构与谱学III/结构与谱学Ⅲ课程总结.docx",
+    "专业课/结构与谱学/结构与谱学III/结构与谱学Ⅲ课程总结.pdf",
+    "专业课/结构与谱学/结构与谱学III/结谱3（期末梳理用）.one",
+    "实验课程/化工原理及实验/化工原理及实验课程经验总结.pdf",
+    "实验课程/化工原理及实验/化工原理实验报告.pdf",
+    "实验课程/基化实验I/基化实验课程经验总结.md",
+    "实验课程/基化实验I/基化实验课程经验总结.docx",
+    "实验课程/基化实验I/基础化学实验总结.docx",
+    "实验课程/基化实验I/基础化学实验课程经验总结.docx",
+    "实验课程/基化实验II/基化II经验.pdf",
+    "实验课程/基化实验II/基化II经验.docx",
+    "实验课程/基化实验II/基化实验2（期末梳理用）.one",
+    "实验课程/大学物理实验普通物理学实验/热敏电阻和热电偶的温度特性研究96分-完整物理实验报告-.pdf",
+    "实验课程/大学物理实验普通物理学实验/热敏电阻和热电偶的温度特性研究96分-精选实验报告.pdf",
+    "实验课程/有机化学实验/三苯甲醇的合成-完整有机实验报告.pdf",
+    "实验课程/有机化学实验/咖啡因提纯表征.pdf",
+    "实验课程/中化实验1（期末梳理用）.one",
+    "资源目录/CC98化学系楼.png",
+    "资源目录/学习资源汇总_文件目录.txt",
+    "资源目录/电子书_文件目录.txt",
+    "资源目录/课程资源——PPT和回忆卷_文件目录.txt",
+    "资源目录/资源🔗",
+    "资源目录/软件_文件目录.txt",
+    "跨专业/复变函数/完整版复变函数与拉普拉斯变换.pdf",
+    "跨专业/数理方法/数学物理方程整理.pdf",
+    "跨专业/概率论与数理统计/完整版概率论与数理统计.pdf",
+    "跨专业/统计力学/正则配分函数和粒子配分函数.pdf",
+    "跨专业/统计力学/统计热力学整理（不包含流体统计）.pdf",
+    "index.md",
+    "LICENSE",
+    "Project_root.txt",
+    "README.md",
+    "README.en.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Contributors/Contributors.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 87,
+      "exportedPath": "contributors/contributors.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/Ce铈量法.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 456,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/ce铈量法.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/EDTA 202406172047.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 371,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/edta-202406172047.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/γ射线光谱法.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 59,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/γ射线光谱法.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/光学分析.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1332,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/光学分析.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/分布分数202406162240.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 439,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/分布分数202406162240.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/分析化学中的计量单位202406161600.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 214,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/分析化学中的计量单位202406161600.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/分析化学数据处理202406161547.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 344,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/分析化学数据处理202406161547.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/分析化学数据的统计处理202406161624.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1993,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/分析化学数据的统计处理202406161624.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/分析化学组会202406280932.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2671,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/分析化学组会202406280932.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/副反应系数202406172055.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 904,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/副反应系数202406172055.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/发射光谱.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1014,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/发射光谱.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/吸收光谱.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 63,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/吸收光谱.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/基准物质202406161550.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 109,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/基准物质202406161550.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/基准物质202406161556.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 285,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/基准物质202406161556.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/微观比热容@20240527.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 590,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/微观比热容@20240527.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/拉平效应202406172041.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 174,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/拉平效应202406172041.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/指示剂202406171729.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 368,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/指示剂202406171729.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/掩蔽法202406172200.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 318,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/掩蔽法202406172200.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/最小误差202406172222.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 201,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/最小误差202406172222.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/有效数字202406162209.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 296,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/有效数字202406162209.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/有机沉淀剂202406101006.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 749,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/有机沉淀剂202406101006.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/条件浓度202406081156.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 224,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/条件浓度202406081156.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/标准加入法202406230816.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 109,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/标准加入法202406230816.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/氧化还原分析.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 777,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/氧化还原分析.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/氧化还原反应的条件电位.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1750,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/氧化还原反应的条件电位.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/氧化还原滴定中的指示剂.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1052,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/氧化还原滴定中的指示剂.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/氧化还原滴定曲线.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1258,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/氧化还原滴定曲线.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/氧化还原滴定的基本原理.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 542,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/氧化还原滴定的基本原理.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/氧化还原滴定预处理.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 488,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/氧化还原滴定预处理.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/氧化还原的速率.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1360,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/氧化还原的速率.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/沉淀分析法.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 391,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/沉淀分析法.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/沉淀条件和称量形的获得202406081649.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2628,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/沉淀条件和称量形的获得202406081649.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/沉淀滴定曲线202406101023.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 481,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/沉淀滴定曲线202406101023.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/沉淀滴定法202406101022.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 479,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/沉淀滴定法202406101022.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/沉淀的形成.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1183,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/沉淀的形成.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/沉淀的溶解度202406072147.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 446,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/沉淀的溶解度202406072147.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/沉淀重量分析法202406081612.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1383,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/沉淀重量分析法202406081612.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/法杨司_吸附指示剂202406101105.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 401,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/法杨司_吸附指示剂202406101105.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/活度与活度系数202406162216.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 864,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/活度与活度系数202406162216.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/浓度对数图202406162245.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 208,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/浓度对数图202406162245.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/溴酸钾法.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 479,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/溴酸钾法.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/溶液中pH的计算202406171438.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 679,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/溶液中ph的计算202406171438.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/直接滴定法202406171715.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 270,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/直接滴定法202406171715.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/确保沉淀的纯度202406081636.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1994,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/确保沉淀的纯度202406081636.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/碘量法.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1173,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/碘量法.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/福尔哈德法_铁铵钒作为指示剂202406101057.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 620,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/福尔哈德法_铁铵钒作为指示剂202406101057.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/等电点202406171705.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 420,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/等电点202406171705.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/紫外-可见光分光光度法.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 221,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/紫外-可见光分光光度法.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/终点误差的计算202406171750.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 495,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/终点误差的计算202406171750.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/络合滴定方法202406172207.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 448,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/络合滴定方法202406172207.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/络合滴定法202406172029.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 192,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/络合滴定法202406172029.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/络合滴定的误差分析202406172130.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 610,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/络合滴定的误差分析202406172130.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/络合物形成常数202406172046.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 422,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/络合物形成常数202406172046.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/缓冲体系202406171636.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 564,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/缓冲体系202406171636.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/置换滴定法202406171723.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 282,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/置换滴定法202406171723.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/胶体202406100922.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 249,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/胶体202406100922.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/莫尔法_铬酸钾作为指示剂202406101042.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 747,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/莫尔法_铬酸钾作为指示剂202406101042.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/萃取202406172214.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 500,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/萃取202406172214.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/误差的传递202406162116.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1475,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/误差的传递202406162116.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/误差的表征202406161608.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1080,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/误差的表征202406161608.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/返滴定法202406171722.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 266,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/返滴定法202406171722.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/酸碱滴定曲线202406171733.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 897,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/酸碱滴定曲线202406171733.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/酸碱滴定法的应用202406172042.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 147,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/酸碱滴定法的应用202406172042.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/重铬酸钾氧化还原法.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 677,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/重铬酸钾氧化还原法.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/金属指示剂202406172101.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1424,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/金属指示剂202406172101.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/间接滴定法202406171726.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 220,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/间接滴定法202406171726.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/非水滴定202406172025.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 448,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/非水滴定202406172025.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学I笔记/高锰酸钾氧化还原滴定法.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1930,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学i笔记/高锰酸钾氧化还原滴定法.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学I/分析化学(化竞).pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 5278795,
+      "exportedPath": "专业课/分析化学/分析化学i/分析化学(化竞).pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学II/分化2（期末梳理用）.one": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 15082000,
+      "exportedPath": "专业课/分析化学/分析化学ii/分化2（期末梳理用）.one",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学II/分析化学II中文整理.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2139907,
+      "exportedPath": "专业课/分析化学/分析化学ii/分析化学ii中文整理.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第8章-1  色谱法导论-2023-春夏 - 副本.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1862103,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/courseware/第8章-1-色谱法导论-2023-春夏-副本.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第8章-1,3  气相色谱法－2023-春夏.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1382679,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/courseware/第8章-1,3-气相色谱法－2023-春夏.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第8章-1,3  液相色谱法 - 2023-春夏.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 6919174,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/courseware/第8章-1,3-液相色谱法-2023-春夏.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第8章-4  毛细管电泳法--2023-春夏.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 4375993,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/courseware/第8章-4-毛细管电泳法-2023-春夏.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第11章 红外光谱法-2023-春夏.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 8466056,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/courseware/第11章-红外光谱法-2023-春夏.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第12章-分子发光分析法-2023-春夏.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2816624,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/courseware/第12章-分子发光分析法-2023-春夏.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第13章 原子光谱法－原子发射光谱法-2022-春夏.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2812904,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/courseware/第13章-原子光谱法－原子发射光谱法-2022-春夏.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第13章 原子光谱法-原子吸收光谱法-2022-春夏.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2241125,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/courseware/第13章-原子光谱法-原子吸收光谱法-2022-春夏.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第16章  核磁共振波谱法-2022-春夏.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2512035,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/courseware/第16章-核磁共振波谱法-2022-春夏.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第17章 电化学分析法导论-2022-春夏.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 675714,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/courseware/第17章-电化学分析法导论-2022-春夏.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第18章 电位分析法-2022-春夏.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1186006,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/courseware/第18章-电位分析法-2022-春夏.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第19章 电解和库仑分析-修改-2023-春夏.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 523079,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/courseware/第19章-电解和库仑分析-修改-2023-春夏.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第20章 伏安法-2022-春夏.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1616378,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/courseware/第20章-伏安法-2022-春夏.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/第22章 质谱法-2023-春夏.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1706174,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/courseware/第22章-质谱法-2023-春夏.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/courseware/紫外-可见分光光度法-2023-春夏.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 5640819,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/courseware/紫外-可见分光光度法-2023-春夏.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/images/image.png": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 45023,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/images/image.png",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/images/image-1.png": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 36924,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/images/image-1.png",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/images/image-2.png": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 62641,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/images/image-2.png",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/images/image-3.png": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 41905,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/images/image-3.png",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/images/image-4.png": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 137206,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/images/image-4.png",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/images/image-5.png": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 137583,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/images/image-5.png",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/images/image5.png": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 67767,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/images/image5.png",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/LEGO-LIF/LEGO-LIF实验讲义PPT-V5-2023.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 5372414,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/lego-lif/lego-lif实验讲义ppt-v5-2023.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/AAS.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 272253,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学ii（求化）笔记/aas.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/AES.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 316227,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学ii（求化）笔记/aes.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/GC.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 255460,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学ii（求化）笔记/gc.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/HPLC.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 333880,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学ii（求化）笔记/hplc.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/IR.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 328898,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学ii（求化）笔记/ir.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/MS.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 206754,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学ii（求化）笔记/ms.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/NMR.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 603679,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学ii（求化）笔记/nmr.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/UV.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 412300,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学ii（求化）笔记/uv.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/人名.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 249645,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学ii（求化）笔记/人名.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/伏安法.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 215622,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学ii（求化）笔记/伏安法.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/作业.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 796553,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学ii（求化）笔记/作业.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/作业.docx": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 785235,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学ii（求化）笔记/作业.docx",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/电位分析.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 242913,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学ii（求化）笔记/电位分析.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/电化学导论.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 193057,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学ii（求化）笔记/电化学导论.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/电泳.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 326884,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学ii（求化）笔记/电泳.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/电解分析.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 229163,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学ii（求化）笔记/电解分析.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/色谱导论.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1166370,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学ii（求化）笔记/色谱导论.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学II（求化）笔记/荧光.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 247512,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学ii（求化）笔记/荧光.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/《分析化学教程》李克安(OCR).pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 104919840,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/《分析化学教程》李克安(ocr).pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/readme.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1243,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/readme.html",
+      "dependencies": [
+        "专业课/分析化学/分析化学ⅱ(求化)/images/image.png",
+        "专业课/分析化学/分析化学ⅱ(求化)/images/image-1.png",
+        "专业课/分析化学/分析化学ⅱ(求化)/images/image5.png",
+        "专业课/分析化学/分析化学ⅱ(求化)/images/image-3.png",
+        "专业课/分析化学/分析化学ⅱ(求化)/images/image-4.png",
+        "专业课/分析化学/分析化学ⅱ(求化)/images/image-5.png"
+      ]
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学 北大(OCR).pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 31007697,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学-北大(ocr).pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/分析化学教程习题解析.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 39463566,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/分析化学教程习题解析.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/课程总结.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 195854,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/课程总结.pdf",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学Ⅱ(求化)/课程总结.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2285,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/课程总结.html",
+      "dependencies": []
+    },
+    "专业课/大学化学/大学化学_手写笔记.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2573896,
+      "exportedPath": "专业课/大学化学/大学化学_手写笔记.pdf",
+      "dependencies": []
+    },
+    "专业课/大学化学/大学化学总结.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1333,
+      "exportedPath": "专业课/大学化学/大学化学总结.html",
+      "dependencies": []
+    },
+    "专业课/大学化学/大学化学总结.docx": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 16991,
+      "exportedPath": "专业课/大学化学/大学化学总结.docx",
+      "dependencies": []
+    },
+    "专业课/大学物理普通物理学（H）/普物1（H）笔记.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 21768454,
+      "exportedPath": "专业课/大学物理普通物理学（h）/普物1（h）笔记.pdf",
+      "dependencies": []
+    },
+    "专业课/大学物理普通物理学（H）/普物I(H)完整版笔记.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 13008400,
+      "exportedPath": "专业课/大学物理普通物理学（h）/普物i(h)完整版笔记.pdf",
+      "dependencies": []
+    },
+    "专业课/大学物理普通物理学（H）/普物二笔记(1).pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 8338495,
+      "exportedPath": "专业课/大学物理普通物理学（h）/普物二笔记(1).pdf",
+      "dependencies": []
+    },
+    "专业课/大学物理普通物理学（H）/课程经验总结（普物H）.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2246,
+      "exportedPath": "专业课/大学物理普通物理学（h）/课程经验总结（普物h）.html",
+      "dependencies": []
+    },
+    "专业课/大学物理普通物理学（H）/课程经验总结（普物H）.docx": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 15864,
+      "exportedPath": "专业课/大学物理普通物理学（h）/课程经验总结（普物h）.docx",
+      "dependencies": []
+    },
+    "专业课/大学物理普通物理学（H）/课程经验总结（普物二H）.docx": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 14554,
+      "exportedPath": "专业课/大学物理普通物理学（h）/课程经验总结（普物二h）.docx",
+      "dependencies": []
+    },
+    "专业课/大学物理普通物理学（H）/课程经验总结（普物二H）.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1242,
+      "exportedPath": "专业课/大学物理普通物理学（h）/课程经验总结（普物二h）.html",
+      "dependencies": []
+    },
+    "专业课/微积分/Tom Apostol - Calculus Vol.2 - Multi-Variable Calculus and Linear Algebra with Applications.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 13649831,
+      "exportedPath": "专业课/微积分/tom-apostol-calculus-vol.2-multi-variable-calculus-and-linear-algebra-with-applications.pdf",
+      "dependencies": []
+    },
+    "专业课/微积分/微积分手写笔记1.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 15619637,
+      "exportedPath": "专业课/微积分/微积分手写笔记1.pdf",
+      "dependencies": []
+    },
+    "专业课/微积分/微积分手写笔记2.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 31977904,
+      "exportedPath": "专业课/微积分/微积分手写笔记2.pdf",
+      "dependencies": []
+    },
+    "专业课/微积分/微积分手写笔记3.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 34717484,
+      "exportedPath": "专业课/微积分/微积分手写笔记3.pdf",
+      "dependencies": []
+    },
+    "专业课/微积分/微积分手写笔记4.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 37023439,
+      "exportedPath": "专业课/微积分/微积分手写笔记4.pdf",
+      "dependencies": []
+    },
+    "专业课/微积分/微积分手写笔记5.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 25257399,
+      "exportedPath": "专业课/微积分/微积分手写笔记5.pdf",
+      "dependencies": []
+    },
+    "专业课/微积分/微积分手写笔记6.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 18810062,
+      "exportedPath": "专业课/微积分/微积分手写笔记6.pdf",
+      "dependencies": []
+    },
+    "专业课/微积分/课程总结.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2067,
+      "exportedPath": "专业课/微积分/课程总结.html",
+      "dependencies": []
+    },
+    "专业课/微积分/课程总结.docx": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 12350,
+      "exportedPath": "专业课/微积分/课程总结.docx",
+      "dependencies": []
+    },
+    "专业课/无机化学/《无机化学》课程经验总结.docx": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 12010,
+      "exportedPath": "专业课/无机化学/《无机化学》课程经验总结.docx",
+      "dependencies": []
+    },
+    "专业课/无机化学/30页无机化学笔记.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 47999233,
+      "exportedPath": "专业课/无机化学/30页无机化学笔记.pdf",
+      "dependencies": []
+    },
+    "专业课/无机化学/inorganic chem notes.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 270897459,
+      "exportedPath": "专业课/无机化学/inorganic-chem-notes.pdf",
+      "dependencies": []
+    },
+    "专业课/无机化学/元素化学(化竞).pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 40744625,
+      "exportedPath": "专业课/无机化学/元素化学(化竞).pdf",
+      "dependencies": []
+    },
+    "专业课/无机化学/无机七.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 25842504,
+      "exportedPath": "专业课/无机化学/无机七.pdf",
+      "dependencies": []
+    },
+    "专业课/无机化学/无机三.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 102772488,
+      "exportedPath": "专业课/无机化学/无机三.pdf",
+      "dependencies": []
+    },
+    "专业课/无机化学/无机化学（求化）笔记.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 86451822,
+      "exportedPath": "专业课/无机化学/无机化学（求化）笔记.pdf",
+      "dependencies": []
+    },
+    "专业课/无机化学/课程经验总结.docx": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 30189,
+      "exportedPath": "专业课/无机化学/课程经验总结.docx",
+      "dependencies": []
+    },
+    "专业课/无机化学/课程经验总结(无机化学wgp).docx": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 15619,
+      "exportedPath": "专业课/无机化学/课程经验总结(无机化学wgp).docx",
+      "dependencies": []
+    },
+    "专业课/无机化学/课程经验总结(竞赛生）.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2680,
+      "exportedPath": "专业课/无机化学/课程经验总结(竞赛生）.html",
+      "dependencies": []
+    },
+    "专业课/无机化学/课程经验总结(非竞赛生).md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3092,
+      "exportedPath": "专业课/无机化学/课程经验总结(非竞赛生).html",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/1.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 4043181,
+      "exportedPath": "专业课/普通化学/笔记1/1.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/2.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3811027,
+      "exportedPath": "专业课/普通化学/笔记1/2.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/3.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3100955,
+      "exportedPath": "专业课/普通化学/笔记1/3.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/4.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3117822,
+      "exportedPath": "专业课/普通化学/笔记1/4.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/5.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3888198,
+      "exportedPath": "专业课/普通化学/笔记1/5.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/6.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3915408,
+      "exportedPath": "专业课/普通化学/笔记1/6.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/7.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3316907,
+      "exportedPath": "专业课/普通化学/笔记1/7.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/8.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3320476,
+      "exportedPath": "专业课/普通化学/笔记1/8.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/9.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3614650,
+      "exportedPath": "专业课/普通化学/笔记1/9.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/10.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2280528,
+      "exportedPath": "专业课/普通化学/笔记1/10.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/11.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3749623,
+      "exportedPath": "专业课/普通化学/笔记1/11.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/12.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2700409,
+      "exportedPath": "专业课/普通化学/笔记1/12.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/13.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3520597,
+      "exportedPath": "专业课/普通化学/笔记1/13.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/14.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 4339642,
+      "exportedPath": "专业课/普通化学/笔记1/14.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/15.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 4008260,
+      "exportedPath": "专业课/普通化学/笔记1/15.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/16.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 4009826,
+      "exportedPath": "专业课/普通化学/笔记1/16.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/17.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3745211,
+      "exportedPath": "专业课/普通化学/笔记1/17.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/18.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3815101,
+      "exportedPath": "专业课/普通化学/笔记1/18.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/19.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3438269,
+      "exportedPath": "专业课/普通化学/笔记1/19.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/20.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3633773,
+      "exportedPath": "专业课/普通化学/笔记1/20.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/21.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3911645,
+      "exportedPath": "专业课/普通化学/笔记1/21.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/22.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3924851,
+      "exportedPath": "专业课/普通化学/笔记1/22.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/23.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3805525,
+      "exportedPath": "专业课/普通化学/笔记1/23.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/24.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3694350,
+      "exportedPath": "专业课/普通化学/笔记1/24.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/25.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3993413,
+      "exportedPath": "专业课/普通化学/笔记1/25.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/26.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3424779,
+      "exportedPath": "专业课/普通化学/笔记1/26.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/27.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 4255599,
+      "exportedPath": "专业课/普通化学/笔记1/27.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/28.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3563702,
+      "exportedPath": "专业课/普通化学/笔记1/28.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/29.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3819532,
+      "exportedPath": "专业课/普通化学/笔记1/29.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/30.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 4184049,
+      "exportedPath": "专业课/普通化学/笔记1/30.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/31.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3573448,
+      "exportedPath": "专业课/普通化学/笔记1/31.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记1/32.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3207664,
+      "exportedPath": "专业课/普通化学/笔记1/32.jpg",
+      "dependencies": []
+    },
+    "专业课/普通化学/笔记2/普通化学笔记.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 12833306,
+      "exportedPath": "专业课/普通化学/笔记2/普通化学笔记.pdf",
+      "dependencies": []
+    },
+    "专业课/普通化学/普通化学课程总结.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 4130,
+      "exportedPath": "专业课/普通化学/普通化学课程总结.html",
+      "dependencies": []
+    },
+    "专业课/普通化学/普通化学课程总结.docx": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 20342,
+      "exportedPath": "专业课/普通化学/普通化学课程总结.docx",
+      "dependencies": []
+    },
+    "专业课/有机化学/卤代烃.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 27829270,
+      "exportedPath": "专业课/有机化学/卤代烃.pdf",
+      "dependencies": []
+    },
+    "专业课/有机化学/有机基础.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 60172318,
+      "exportedPath": "专业课/有机化学/有机基础.pdf",
+      "dependencies": []
+    },
+    "专业课/有机化学/烷烃与自由基反应.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 14290796,
+      "exportedPath": "专业课/有机化学/烷烃与自由基反应.pdf",
+      "dependencies": []
+    },
+    "专业课/有机化学/电子效应.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 10063588,
+      "exportedPath": "专业课/有机化学/电子效应.pdf",
+      "dependencies": []
+    },
+    "专业课/有机化学/课程经验总结.docx": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1319530,
+      "exportedPath": "专业课/有机化学/课程经验总结.docx",
+      "dependencies": []
+    },
+    "专业课/有机化学/课程经验总结.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1501064,
+      "exportedPath": "专业课/有机化学/课程经验总结.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/全套物理化学笔记/第1章-单个分子能级结构.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3812488,
+      "exportedPath": "专业课/物理化学/全套物理化学笔记/第1章-单个分子能级结构.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/全套物理化学笔记/第2章-从单分子到多分子.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 4557847,
+      "exportedPath": "专业课/物理化学/全套物理化学笔记/第2章-从单分子到多分子.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/全套物理化学笔记/第3章-从分子性质到宏观可观测量.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 4129499,
+      "exportedPath": "专业课/物理化学/全套物理化学笔记/第3章-从分子性质到宏观可观测量.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/全套物理化学笔记/第4章-热力学概论和热力学第一定律.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 4093077,
+      "exportedPath": "专业课/物理化学/全套物理化学笔记/第4章-热力学概论和热力学第一定律.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/全套物理化学笔记/第5章-热力学第二定律.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 4826120,
+      "exportedPath": "专业课/物理化学/全套物理化学笔记/第5章-热力学第二定律.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/全套物理化学笔记/第6章-热力学基本方程.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1527686,
+      "exportedPath": "专业课/物理化学/全套物理化学笔记/第6章-热力学基本方程.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/全套物理化学笔记/第6章（2）.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1250223,
+      "exportedPath": "专业课/物理化学/全套物理化学笔记/第6章（2）.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/全套物理化学笔记/第7.0章-分子间相互作用.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3406086,
+      "exportedPath": "专业课/物理化学/全套物理化学笔记/第7.0章-分子间相互作用.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/全套物理化学笔记/第7.5章-纯物质体相性质.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3799800,
+      "exportedPath": "专业课/物理化学/全套物理化学笔记/第7.5章-纯物质体相性质.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/全套物理化学笔记/第8章-溶液形成和基本性质(1).pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 6067908,
+      "exportedPath": "专业课/物理化学/全套物理化学笔记/第8章-溶液形成和基本性质(1).pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/全套物理化学笔记/第9章-溶液与多相混合物.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 6430611,
+      "exportedPath": "专业课/物理化学/全套物理化学笔记/第9章-溶液与多相混合物.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/全套物理化学笔记/第10章-表面.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 4049852,
+      "exportedPath": "专业课/物理化学/全套物理化学笔记/第10章-表面.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/全套物理化学笔记/第11章-胶体溶液.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1584290,
+      "exportedPath": "专业课/物理化学/全套物理化学笔记/第11章-胶体溶液.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/全套物理化学笔记/第12章-化学平衡.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3122190,
+      "exportedPath": "专业课/物理化学/全套物理化学笔记/第12章-化学平衡.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/全套物理化学笔记/第13章-非平衡态热力学和输运过程.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2091945,
+      "exportedPath": "专业课/物理化学/全套物理化学笔记/第13章-非平衡态热力学和输运过程.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/全套物理化学笔记/第14章-局域平衡态和理论动力学.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 5090927,
+      "exportedPath": "专业课/物理化学/全套物理化学笔记/第14章-局域平衡态和理论动力学.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/全套物理化学笔记/第15章-实验化学动力学.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3145835,
+      "exportedPath": "专业课/物理化学/全套物理化学笔记/第15章-实验化学动力学.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_hw/夏学期第一次作业参考答案.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 304600,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_hw/夏学期第一次作业参考答案.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_hw/夏学期第三次作业参考答案.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 134634,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_hw/夏学期第三次作业参考答案.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_hw/夏学期第二次作业答案.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 163667,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_hw/夏学期第二次作业答案.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_hw/夏学期第五次作业参考答案.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 153583,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_hw/夏学期第五次作业参考答案.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_hw/夏学期第六次作业答案.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 108933,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_hw/夏学期第六次作业答案.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_hw/夏学期第四次作业答案.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 265787,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_hw/夏学期第四次作业答案.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/《阿特金斯物理化学》中关于核统计的说明.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 456272,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_interest/《阿特金斯物理化学》中关于核统计的说明.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/《阿特金斯物理化学》中关于转动配分函数的说明.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 739397,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_interest/《阿特金斯物理化学》中关于转动配分函数的说明.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/conservation.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 71345,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_interest/conservation.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/hw1说明.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1985,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_interest/hw1说明.html",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/关于内能对体积的偏导.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 110069,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_interest/关于内能对体积的偏导.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/对称因子.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 172737,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_interest/对称因子.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/振动+转动.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 305621,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_interest/振动+转动.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/有关转动及转动自由度问题的一些看法.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 496486,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_interest/有关转动及转动自由度问题的一些看法.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/玻尔兹曼分布.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1607113,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_interest/玻尔兹曼分布.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_Interest/积分近似中的定量误差分析.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 77210,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_interest/积分近似中的定量误差分析.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_quiz/quiz1.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 151804,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_quiz/quiz1.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_quiz/quiz2.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 133249,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_quiz/quiz2.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_quiz/quiz3.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 101770,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_quiz/quiz3.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_quiz/quiz4.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 129988,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_quiz/quiz4.pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/Phy1_2024_quiz/quiz5(1).pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 103586,
+      "exportedPath": "专业课/物理化学/物理化学i/phy1_2024_quiz/quiz5(1).pdf",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/物理化学笔记/1.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2154876,
+      "exportedPath": "专业课/物理化学/物理化学i/物理化学笔记/1.jpg",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/物理化学笔记/2.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2094552,
+      "exportedPath": "专业课/物理化学/物理化学i/物理化学笔记/2.jpg",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/物理化学笔记/3.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2047786,
+      "exportedPath": "专业课/物理化学/物理化学i/物理化学笔记/3.jpg",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/物理化学笔记/4.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2103591,
+      "exportedPath": "专业课/物理化学/物理化学i/物理化学笔记/4.jpg",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/物理化学笔记/5.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2158172,
+      "exportedPath": "专业课/物理化学/物理化学i/物理化学笔记/5.jpg",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/物理化学笔记/6.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2144490,
+      "exportedPath": "专业课/物理化学/物理化学i/物理化学笔记/6.jpg",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学I/物理化学笔记/7.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2139300,
+      "exportedPath": "专业课/物理化学/物理化学i/物理化学笔记/7.jpg",
+      "dependencies": []
+    },
+    "专业课/物理化学/物理化学II、III.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 53876491,
+      "exportedPath": "专业课/物理化学/物理化学ii、iii.pdf",
+      "dependencies": []
+    },
+    "专业课/线性代数/笔记1/第一章 线性方程组的求解.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3616737,
+      "exportedPath": "专业课/线性代数/笔记1/第一章-线性方程组的求解.pdf",
+      "dependencies": []
+    },
+    "专业课/线性代数/笔记1/第三章 矩阵的运算.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 9052209,
+      "exportedPath": "专业课/线性代数/笔记1/第三章-矩阵的运算.pdf",
+      "dependencies": []
+    },
+    "专业课/线性代数/笔记1/第二章 行列式与矩阵的秩.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 6123546,
+      "exportedPath": "专业课/线性代数/笔记1/第二章-行列式与矩阵的秩.pdf",
+      "dependencies": []
+    },
+    "专业课/线性代数/笔记1/第五章 矩阵的特征值理论与相似对角化.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 23091420,
+      "exportedPath": "专业课/线性代数/笔记1/第五章-矩阵的特征值理论与相似对角化.pdf",
+      "dependencies": []
+    },
+    "专业课/线性代数/笔记1/第八章 欧式空间.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1513106,
+      "exportedPath": "专业课/线性代数/笔记1/第八章-欧式空间.pdf",
+      "dependencies": []
+    },
+    "专业课/线性代数/笔记1/第四章 n元向量空间.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 25643831,
+      "exportedPath": "专业课/线性代数/笔记1/第四章-n元向量空间.pdf",
+      "dependencies": []
+    },
+    "专业课/线性代数/笔记2/IMG_20241212_215348.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 5794405,
+      "exportedPath": "专业课/线性代数/笔记2/img_20241212_215348.jpg",
+      "dependencies": []
+    },
+    "专业课/线性代数/笔记2/IMG_20241212_215354.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 5701409,
+      "exportedPath": "专业课/线性代数/笔记2/img_20241212_215354.jpg",
+      "dependencies": []
+    },
+    "专业课/线性代数/笔记2/IMG_20241212_215357.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 5806964,
+      "exportedPath": "专业课/线性代数/笔记2/img_20241212_215357.jpg",
+      "dependencies": []
+    },
+    "专业课/线性代数/笔记2/IMG_20241212_215403.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 5664739,
+      "exportedPath": "专业课/线性代数/笔记2/img_20241212_215403.jpg",
+      "dependencies": []
+    },
+    "专业课/线性代数/笔记2/IMG_20241212_215407.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 6129456,
+      "exportedPath": "专业课/线性代数/笔记2/img_20241212_215407.jpg",
+      "dependencies": []
+    },
+    "专业课/线性代数/笔记2/IMG_20241212_215618.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 4998532,
+      "exportedPath": "专业课/线性代数/笔记2/img_20241212_215618.jpg",
+      "dependencies": []
+    },
+    "专业课/线性代数/笔记2/IMG_20241212_215628.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 4968173,
+      "exportedPath": "专业课/线性代数/笔记2/img_20241212_215628.jpg",
+      "dependencies": []
+    },
+    "专业课/线性代数/笔记2/IMG_20241212_215633.jpg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 5247944,
+      "exportedPath": "专业课/线性代数/笔记2/img_20241212_215633.jpg",
+      "dependencies": []
+    },
+    "专业课/线性代数/课程经验总结模版.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 809,
+      "exportedPath": "专业课/线性代数/课程经验总结模版.html",
+      "dependencies": []
+    },
+    "专业课/线性代数/课程经验总结模版.docx": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 14279,
+      "exportedPath": "专业课/线性代数/课程经验总结模版.docx",
+      "dependencies": []
+    },
+    "专业课/结构与谱学/结构与谱学II/结构与谱学2完整笔记.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 11743449,
+      "exportedPath": "专业课/结构与谱学/结构与谱学ii/结构与谱学2完整笔记.pdf",
+      "dependencies": []
+    },
+    "专业课/结构与谱学/结构与谱学III/知识点梳理.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 82319,
+      "exportedPath": "专业课/结构与谱学/结构与谱学iii/知识点梳理.pdf",
+      "dependencies": []
+    },
+    "专业课/结构与谱学/结构与谱学III/结构与谱学3笔记.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3383712,
+      "exportedPath": "专业课/结构与谱学/结构与谱学iii/结构与谱学3笔记.pdf",
+      "dependencies": []
+    },
+    "专业课/结构与谱学/结构与谱学III/结构与谱学Ⅲ课程总结.docx": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 58650,
+      "exportedPath": "专业课/结构与谱学/结构与谱学iii/结构与谱学ⅲ课程总结.docx",
+      "dependencies": []
+    },
+    "专业课/结构与谱学/结构与谱学III/结构与谱学Ⅲ课程总结.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 175479,
+      "exportedPath": "专业课/结构与谱学/结构与谱学iii/结构与谱学ⅲ课程总结.pdf",
+      "dependencies": []
+    },
+    "专业课/结构与谱学/结构与谱学III/结谱3（期末梳理用）.one": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 9343088,
+      "exportedPath": "专业课/结构与谱学/结构与谱学iii/结谱3（期末梳理用）.one",
+      "dependencies": []
+    },
+    "实验课程/化工原理及实验/化工原理及实验课程经验总结.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 216776,
+      "exportedPath": "实验课程/化工原理及实验/化工原理及实验课程经验总结.pdf",
+      "dependencies": []
+    },
+    "实验课程/化工原理及实验/化工原理实验报告.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 12516798,
+      "exportedPath": "实验课程/化工原理及实验/化工原理实验报告.pdf",
+      "dependencies": []
+    },
+    "实验课程/基化实验I/基化实验课程经验总结.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3362,
+      "exportedPath": "实验课程/基化实验i/基化实验课程经验总结.html",
+      "dependencies": []
+    },
+    "实验课程/基化实验I/基化实验课程经验总结.docx": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 14292,
+      "exportedPath": "实验课程/基化实验i/基化实验课程经验总结.docx",
+      "dependencies": []
+    },
+    "实验课程/基化实验I/基础化学实验总结.docx": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 17388,
+      "exportedPath": "实验课程/基化实验i/基础化学实验总结.docx",
+      "dependencies": []
+    },
+    "实验课程/基化实验I/基础化学实验课程经验总结.docx": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 18182,
+      "exportedPath": "实验课程/基化实验i/基础化学实验课程经验总结.docx",
+      "dependencies": []
+    },
+    "实验课程/基化实验II/基化II经验.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 126260,
+      "exportedPath": "实验课程/基化实验ii/基化ii经验.pdf",
+      "dependencies": []
+    },
+    "实验课程/基化实验II/基化II经验.docx": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 17504,
+      "exportedPath": "实验课程/基化实验ii/基化ii经验.docx",
+      "dependencies": []
+    },
+    "实验课程/基化实验II/基化实验2（期末梳理用）.one": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 4237104,
+      "exportedPath": "实验课程/基化实验ii/基化实验2（期末梳理用）.one",
+      "dependencies": []
+    },
+    "实验课程/大学物理实验普通物理学实验/热敏电阻和热电偶的温度特性研究96分-完整物理实验报告-.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1996487,
+      "exportedPath": "实验课程/大学物理实验普通物理学实验/热敏电阻和热电偶的温度特性研究96分-完整物理实验报告-.pdf",
+      "dependencies": []
+    },
+    "实验课程/大学物理实验普通物理学实验/热敏电阻和热电偶的温度特性研究96分-精选实验报告.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1700415,
+      "exportedPath": "实验课程/大学物理实验普通物理学实验/热敏电阻和热电偶的温度特性研究96分-精选实验报告.pdf",
+      "dependencies": []
+    },
+    "实验课程/有机化学实验/三苯甲醇的合成-完整有机实验报告.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2818838,
+      "exportedPath": "实验课程/有机化学实验/三苯甲醇的合成-完整有机实验报告.pdf",
+      "dependencies": []
+    },
+    "实验课程/有机化学实验/咖啡因提纯表征.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1569346,
+      "exportedPath": "实验课程/有机化学实验/咖啡因提纯表征.pdf",
+      "dependencies": []
+    },
+    "实验课程/中化实验1（期末梳理用）.one": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 17092592,
+      "exportedPath": "实验课程/中化实验1（期末梳理用）.one",
+      "dependencies": []
+    },
+    "资源目录/CC98化学系楼.png": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 38627,
+      "exportedPath": "资源目录/cc98化学系楼.png",
+      "dependencies": []
+    },
+    "资源目录/学习资源汇总_文件目录.txt": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 257956,
+      "exportedPath": "资源目录/学习资源汇总_文件目录.txt",
+      "dependencies": []
+    },
+    "资源目录/电子书_文件目录.txt": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 157703,
+      "exportedPath": "资源目录/电子书_文件目录.txt",
+      "dependencies": []
+    },
+    "资源目录/课程资源——PPT和回忆卷_文件目录.txt": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 24590,
+      "exportedPath": "资源目录/课程资源——ppt和回忆卷_文件目录.txt",
+      "dependencies": []
+    },
+    "资源目录/资源🔗": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 208,
+      "exportedPath": "资源目录/资源🔗/资源🔗.",
+      "dependencies": []
+    },
+    "资源目录/软件_文件目录.txt": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 51878,
+      "exportedPath": "资源目录/软件_文件目录.txt",
+      "dependencies": []
+    },
+    "跨专业/复变函数/完整版复变函数与拉普拉斯变换.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 60106274,
+      "exportedPath": "跨专业/复变函数/完整版复变函数与拉普拉斯变换.pdf",
+      "dependencies": []
+    },
+    "跨专业/数理方法/数学物理方程整理.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 382475,
+      "exportedPath": "跨专业/数理方法/数学物理方程整理.pdf",
+      "dependencies": []
+    },
+    "跨专业/概率论与数理统计/完整版概率论与数理统计.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 86697793,
+      "exportedPath": "跨专业/概率论与数理统计/完整版概率论与数理统计.pdf",
+      "dependencies": []
+    },
+    "跨专业/统计力学/正则配分函数和粒子配分函数.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 123726,
+      "exportedPath": "跨专业/统计力学/正则配分函数和粒子配分函数.pdf",
+      "dependencies": []
+    },
+    "跨专业/统计力学/统计热力学整理（不包含流体统计）.pdf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 371257,
+      "exportedPath": "跨专业/统计力学/统计热力学整理（不包含流体统计）.pdf",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 28,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "LICENSE": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1071,
+      "exportedPath": "license/license.",
+      "dependencies": []
+    },
+    "Project_root.txt": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3965,
+      "exportedPath": "project_root.txt",
+      "dependencies": []
+    },
+    "README.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2296,
+      "exportedPath": "readme.html",
+      "dependencies": []
+    },
+    "README.en.md": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 2631,
+      "exportedPath": "readme.en.html",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学ⅱ(求化)/images/image.png": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 45023,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/images/image.png",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学ⅱ(求化)/images/image-1.png": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 36924,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/images/image-1.png",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学ⅱ(求化)/images/image5.png": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 67767,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/images/image5.png",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学ⅱ(求化)/images/image-3.png": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 41905,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/images/image-3.png",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学ⅱ(求化)/images/image-4.png": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 137206,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/images/image-4.png",
+      "dependencies": []
+    },
+    "专业课/分析化学/分析化学ⅱ(求化)/images/image-5.png": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 137583,
+      "exportedPath": "专业课/分析化学/分析化学ⅱ(求化)/images/image-5.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 262848,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 5952,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 137329,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 395,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1739413110554,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
