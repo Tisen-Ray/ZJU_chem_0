@@ -84,3 +84,5 @@ git push origin {课程名} eg: git push origin Physical-Chemistry
 让我们一起探索奇妙的化学世界吧！🔍🔬✨
 
 > **化学让世界变得更美好！**
+
+欢迎访问我们的主页：
