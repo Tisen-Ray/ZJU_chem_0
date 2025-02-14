@@ -89,4 +89,4 @@ git push origin {课程名} eg: git push origin Physical-Chemistry
 
 > **化学让世界变得更美好！**
 
-欢迎访问我们的主页：https://easysunhan.github.io/ZJU_chem_0/
+欢迎访问我们的主页：https://easysunhan.github.io/ZJU_chem_0/index.html
